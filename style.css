@@ -1,0 +1,24 @@
+* {
+	font-family: calibri;
+}
+
+.color {
+	color: #00BFFF;
+}
+
+.white {
+	color: white;
+}
+
+.blue {
+	color: #191970;
+}
+
+.block{
+	margin: 25px;
+}
+
+.headline{
+	text-align: center;
+	background-color: #191970;
+}
